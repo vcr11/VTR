@@ -1,8 +1,8 @@
 ## Virtual-Trail-Room 
 - Virtual Trail Room is an augmented reality dressing room where user or customer will allow to try apparel on their body it self. Virtual Trail Room where the image of the user is captured by the webcam or any other camera and given as an input. By using the face and body detection techniques, the video is scanned for the presence of human faces and then product images are masked. Now the masked image is superimposed and the user can see the images of the dresses and face accessories on them self.
-• VTR Provides real-time experience on wearables like cloths, ornaments, etc.
-• VTR saves users time instead of going offline shopping which they can do online.
-• Used HTML, CSS and JavaScript for frontend. Python and Flask was used for back-end and MySQL for maintaining database.
+1) VTR Provides real-time experience on wearables like cloths, ornaments, etc.
+2) VTR saves users time instead of going offline shopping which they can do online.
+3) Used HTML, CSS and JavaScript for frontend. Python and Flask was used for back-end and MySQL for maintaining database.
 
 <h2>Project Setup Process :</h2>
 
